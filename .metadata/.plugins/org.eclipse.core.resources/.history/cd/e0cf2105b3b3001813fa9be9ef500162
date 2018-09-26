@@ -1,0 +1,7 @@
+package com.mballem.curso.boot.dao;
+
+import com.mballem.curso.boot.domain.AbstractEntity;
+
+public abstract class AbstractDao extends AbstractEntity<T> {
+
+}

@@ -1,0 +1,8 @@
+package com.mballem.curso.boot.dao;
+
+import java.io.Serializable;
+
+
+public abstract class AbstractDao<T, PK extends Serializable> {
+
+}
